@@ -1,0 +1,14 @@
+{
+	"header1": {
+		"font": {
+			"name": "中文字体",
+			"nameAscii": "英文字体",
+			"bold": "加粗bool",
+			"color": "字体颜色",
+			"size": "字体大小",
+			"spacing": "字符间距"
+		},
+
+
+	},
+}
